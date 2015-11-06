@@ -1,0 +1,14 @@
+/*
+/*/*
+
+!.gitignore
+
+# This block prevents the NEWPS plugin from being ignored
+!/wordpress
+/wordpress/*
+!/wordpress/wp-content
+/wordpress/wp-content/*
+!/wordpress/wp-content/plugins
+/wordpress/wp-content/plugins/*
+!/wordpress/wp-content/plugins/game-of-newps
+
